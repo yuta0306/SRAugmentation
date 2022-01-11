@@ -1,6 +1,18 @@
 # SRAugmentation
 Augmentation for Single-Image-Super-Resolution
 
+## Implimentation
+
+- [x] CutBlur
+- [x] Cutout
+- [x] CutMix
+- [x] Cutup
+- [x] CutMixup
+- [x] Blend
+- [x] RGBPermutation
+- [x] Identity
+- [x] OneOf
+
 ## Requirements
 
 ```
