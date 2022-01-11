@@ -1,6 +1,6 @@
-from mixup import Mixup
-from cutmix import CutMix
-from cutmixup import CutMixup
+from .mixup import Mixup
+from .cutmix import CutMix
+from .cutmixup import CutMixup
 
 import numpy as np
 import torch
